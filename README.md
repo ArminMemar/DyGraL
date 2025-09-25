@@ -228,6 +228,8 @@ pytest -q
 DyGraL/
 ├── examples/
 │   └── basic_example.py
+├── images/
+│   └── graph_snapshot.png
 ├── src/
 │   └── dygral/
 │       ├── __init__.py
@@ -240,6 +242,7 @@ DyGraL/
 ├── requirements.txt
 ├── cli.py
 ├── pyproject.toml
+├── setup.cfg
 └── README.md
 ```
 
